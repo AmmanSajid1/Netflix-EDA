@@ -1,2 +1,8 @@
 # Netflix-EDA
-This repository contains a Jupyter Notebook conducting a thorough Exploratory Data Analysis of a dataset containing information about Netflix's catalogue. Utilising Python and its numerous libraries, the notebook aims to reveal and visualise trends and interesting insights from the data and present them using professional visualisation techniques.
+
+**Tool** : Jupyter Notebook | [Link Notebook](https://nbviewer.org/github/AmmanSajid1/Google-Play-Store-App-Analytics/blob/main/Google%20Play%20Store%20App%20Analytics.ipynb)<br>
+**Programming Language** : Python <br>
+**Libraries** : Pandas, NumPy <br>
+**Visualisation** : Matplotlib, Seaborn, Plotly, Wordcloud<br>
+<br>
+<br>
